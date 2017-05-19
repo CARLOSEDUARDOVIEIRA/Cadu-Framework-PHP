@@ -3,8 +3,7 @@
 /**
  * DESCRIÇÃO: Arquivo de conexão com o banco de dados mySQL - Classe abstrata (Não pode ser instânciada.)
  *
- * @author Desconhecido
-   @adaptação: Carlos Eduardo Vieira <cvieiraemail@gmail.com> 
+ * @author Desconhecido - Adaptado por Carlos Eduardo Vieira <cvieiraemail@gmail.com> 
  */
 abstract class database {
     
