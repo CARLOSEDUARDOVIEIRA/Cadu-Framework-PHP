@@ -6,3 +6,5 @@ O objetivo deste algorítimo é criar uma classe abastrata utilizando a linguage
 Neste exemplo em específico utilizo o banco de dados mysql, mas o código é fácil de ser adaptado para ser utilizado para outros SGBD'S.
 
 ![alt text](https://github.com/carloseduardovieira/Cadu-Framework-PHP/blob/master/carbon.png "Imagem criada pelo site carbon.now.sh")
+
+[Imagem criada pelo site :](https://carbon.now.sh/)
