@@ -1,9 +1,8 @@
-
-//------------ Cadu-Framework-PHP ------
-
 Carlos Eduardo Vieira <cvieiraemail@gmail.com>
 
-Framework Respons·vel por realizar uma conex„o com banco de dados MySQL.
+# PHP Database Connection
+O objetivo deste algor√≠timo √© criar uma classe abastrata utilizando a linguagem php para conex√£o com banco de dados utilizando PDO.
 
-! Arquivo conex„o foi retirado na web e n„o encontrado o autor.
-O cÛdigo foi adaptado e est· disponibilizado para uso da comunidade.
+Neste exemplo em espec√≠fico utilizo o banco de dados mysql, mas o c√≥digo √© f√°cil de ser adaptado para ser utilizado para outros SGBD'S.
+
+
